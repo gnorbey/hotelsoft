@@ -1,0 +1,10 @@
+appdirs
+asgiref
+distlib
+Django
+filelock
+mysqlclient
+pytz
+six
+sqlparse
+virtualenv
